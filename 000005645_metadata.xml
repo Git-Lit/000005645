@@ -1,0 +1,60 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:title>Narrative of a Journey in the Interior of China, and of a voyage to and from that country, in the years 1816 and 1817; containing an account of the most interesting transactions of Lord Amherst's Embassy to the Court of Pekin, etc. [With plates and maps.]</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>ABEL, Clarke.</MODS:namePart>
+            <MODS:role>
+              <MODS:roleTerm authority="marcrelator" type="text">creator</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm type="text">London</MODS:placeTerm>
+            </MODS:place>
+            <MODS:publisher>Longman &amp; Co.</MODS:publisher>
+            <MODS:dateIssued>1818</MODS:dateIssued>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:physicalDescription>
+            <MODS:extent>xvi. 420 p. ; 4º.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:subject authority="lcsh">
+            <MODS:geographic>China</MODS:geographic>
+            <MODS:topic>Description and travel</MODS:topic>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:geographic>China</MODS:geographic>
+            <MODS:topic>Foreign relations</MODS:topic>
+            <MODS:geographic>Great Britain</MODS:geographic>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:geographic>Great Britain</MODS:geographic>
+            <MODS:topic>Foreign relations</MODS:topic>
+            <MODS:geographic>China</MODS:geographic>
+          </MODS:subject>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 981.f.17.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 146.f.16.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library OC V 8820</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">Uk</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">1995-03-14</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="w3cdtf">1995-03-14</MODS:recordChangeDate>
+            <MODS:recordIdentifier>000005645</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
