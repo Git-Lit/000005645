@@ -1,3 +1,7 @@
+---
+layout: default
+title: Narrative of a Journey in the Interior of China, and of a voyage to and from that country, in the years 1816 and 1817; containing an account of the most interesting transactions of Lord Amherst's Embassy to the Court of Pekin, etc.
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
